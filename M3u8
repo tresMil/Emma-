@@ -1,0 +1,1546 @@
+#EXTM3U
+
+#EXTINF:-1,UCV
+http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/playlist.m3u8
+
+#EXTINF:-1,UCV3
+http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1,CHV
+http://live.hls.http.chv.ztreaming.com/desktop/desktop.m3u8
+
+#EXTINF:-1,TVN
+http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?ListaIPTVChile
+
+#EXTINF:-1,Limo TVN
+http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8
+
+#EXTINF:-1,TVN Kids
+http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8
+
+#EXTINF:-1,TVN De Culto
+http://mdstrm.com/live-stream-playlist/591f67a4232da1260ac8c950.m3u8
+
+#EXTINF:-1,24 Play
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+
+#EXTINF:-1,TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
+#EXTINF:-1,Ahora Noticias Digital
+http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+
+#EXTINF:-1,Canal 13
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+
+#EXTINF:-1,CDO
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1,Los Simpsons 24/7
+https://59583158c050f.streamlock.net:443/7186/7186/playlist.m3u8
+
+#EXTINF:-1,Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
+
+#EXTINF:-1,Nick JR
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+
+#EXTINF:-1,Nick
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+
+#EXTINF:-1,ClaroSports
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/HLS/Live/Channel(jjoo2016ch01)/index.m3u8
+
+#EXTINF:-1,Virgin TV
+http://wow01.105.net/live/virgin1/.m3u8
+
+#EXTINF:-1,AE HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/AE_MUNDO_HD/index.m3u8
+
+#EXTINF:-1,AE SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/AE_MUNDO_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,ALJAZEERA HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/ALJAZEERA_HD/index.m3u8
+
+#EXTINF:-1,ALJAZEERA SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/ALJAZEERA_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,ANTENA3 SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/ANTENA3/index.m3u8
+
+#EXTINF:-1,ARIRANG SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/ARIRANG/index.m3u8
+
+#EXTINF:-1,AXN HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/AXN_HD/index.m3u8
+
+#EXTINF:-1,AXN SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/AXN_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,AZMUNDO HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/AZMUNDO_HD/index.m3u8
+
+#EXTINF:-1,AZMUNDO SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/AZMUNDO_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,BABYTV SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/BABYTV/index.m3u8
+
+#EXTINF:-1,BBC WORLD SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/BBC_WORLD/index.m3u8
+
+#EXTINF:-1,BOOMERANG SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/BOOMERANG/index.m3u8
+
+#EXTINF:-1,CABLENOTICIAS HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CABLENOTICIAS_HD/index.m3u8
+
+#EXTINF:-1,CABLENOTICIAS SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CABLENOTICIAS_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,CANAL CLARO HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CANAL_CLARO_HD/index.m3u8
+
+#EXTINF:-1,CANAL CLARO SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CANAL_CLARO_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,CANAL DE LAS ESTRELLAS SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CANAL_DE_LAS_ESTRELLAS/index.m3u8
+
+#EXTINF:-1,CANAL UNO HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CANAL_UNO_HD/index.m3u8
+
+#EXTINF:-1,CANAL UNO SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CANAL_UNO_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,CARACOL HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CARACOL_HD/index.m3u8
+
+#EXTINF:-1,CARACOL SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CARACOL_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,CARTOON NETWORK HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CARTOON_NETWORK_HD/index.m3u8
+
+#EXTINF:-1,CARTOON NETWORK SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CARTOON_NETWORK_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,CINECANAL HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CINECANAL_HD/index.m3u8
+
+#EXTINF:-1,CINECANAL SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CINECANAL_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,CINELATINO SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CINELATINO/index.m3u8
+
+#EXTINF:-1,CINEMAPLUS SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CINEMAPLUS/index.m3u8
+
+#EXTINF:-1,CITY TV SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CITY_TV/index.m3u8
+
+#EXTINF:-1,CLARO CINEMA SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CLARO_CINEMA/index.m3u8
+
+#EXTINF:-1,CLARO SPORTS MEXICO HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/jjoo2016ch01/index.m3u8
+
+#EXTINF:-1,CLARO SPORTS MEXICO SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/jjoo2016ch01/Stream(04)/index.m3u8
+
+#EXTINF:-1,CLARO SPORTS COLOMBIA HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CLARO_SPORTS_COL_HD/index.m3u8
+
+#EXTINF:-1,CLARO SPORTS COLOMBIA SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CLARO_SPORTS_COL_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,CLARO SPORTS LATINOAMERICA HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CLARO_SPORTS_LATAM_HD/index.m3u8
+
+#EXTINF:-1,CLARO SPORTS LATINOAMERICA SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CLARO_SPORTS_LATAM_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,CNN ESPANOL SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CNN_ESPANOL/index.m3u8
+
+#EXTINF:-1,CNN INTERNACIONAL
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CNN_INTERNACIONAL/index.m3u8
+
+#EXTINF:-1,COMEDY CENTRAL HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/COMEDY_CENTRAL_HD/index.m3u8
+
+#EXTINF:-1,COMEDY CENTRAL SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/COMEDY_CENTRAL_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,CONCERT CHANNEL HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CONCERT_CHANNEL_HD/index.m3u8
+
+#EXTINF:-1,CONCERT CHANNEL SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CONCERT_CHANNEL_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,CRISTOVISION SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/CRISTOVISION/index.m3u8
+
+#EXTINF:-1,DATA IFX SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DATA_IFX/index.m3u8
+
+#EXTINF:-1,DEPELICULA SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DEPELICULA/index.m3u8
+
+#EXTINF:-1,DIA TV HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DIA_TV_HD/index.m3u8
+
+#EXTINF:-1,DIA TV SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DIA_TV_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DISCOVERY_CHANNEL_HD/index.m3u8
+
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DISCOVERY_CHANNEL_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,DISCOVERY CIVILIZATION SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DISCOVERY_CIVILIZATION/index.m3u8
+
+#EXTINF:-1,DISCOVERY HOME HEALTH HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DISCOVERY_HOME_HEALTH_HD/index.m3u8
+
+#EXTINF:-1,DISCOVERY HOME HEALTH SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DISCOVERY_HOME_HEALTH_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,DISCOVERY KIDS HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DISCOVERY_KIDS_HD/index.m3u8
+
+#EXTINF:-1,DISCOVERY KIDS SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DISCOVERY_KIDS_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,DISCOVERY SCIENCE SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DISCOVERY_SCIENCE/index.m3u8
+
+#EXTINF:-1,DISCOVERY THEATER HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DISCOVERY_THEATER_HD/index.m3u8
+
+#EXTINF:-1,DISCOVERY THEATER SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DISCOVERY_THEATER_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,DISCOVERY WORLD HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DISCOVERY_WORLD_HD/index.m3u8
+
+#EXTINF:-1,DISCOVERY WORLD SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DISCOVERY_WORLD_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,DISNEY XD SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DISNEY_XD/index.m3u8
+
+#EXTINF:-1,DISNEY JR
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DISNEY_JR/index.m3u8
+
+#EXTINF:-1,DISNEY HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DISNEY_HD/index.m3u8
+
+#EXTINF:-1,DISNEY SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DISNEY_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,DHE HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DHE_HD/index.m3u8
+
+#EXTINF:-1,DHE SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/DHE_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,E! SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/E/index.m3u8
+
+#EXTINF:-1,EL SEMBRADOR SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/EL_SEMBRADOR/index.m3u8
+
+#EXTINF:-1,ENLACE SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/ENLACE/index.m3u8
+
+#EXTINF:-1,ESPN 2 HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/ESPN_2_HD/index.m3u8
+
+#EXTINF:-1,ESPN 2 SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/ESPN_2_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,ESPN 3 _HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/ESPN_3_HD/index.m3u8
+
+#EXTINF:-1,ESPN 3 SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/ESPN_3_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,ESPN HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/ESPN_HD/index.m3u8
+
+#EXTINF:-1,ESPN SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/ESPN_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,ESPN PLUS HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/ESPN_PLUS_HD/index.m3u8
+
+#EXTINF:-1,ESPN PLUS SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/ESPN_PLUS_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,EUROCHANNEL
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/EUROCHANNEL/Stream(04)/index.m3u8
+
+#EXTINF:-1,FOX1 HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOX1_HD_SUB/index.m3u8
+
+#EXTINF:-1,FOX1 SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOX1_HD_SUB/Stream(04)/index.m3u8
+
+#EXTINF:-1,FOX ACTION HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOXACTION_HD/index.m3u8
+
+#EXTINF:-1,FOX ACTION SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOXACTION_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,FOX FAMILY HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOXFAMILY_HD/index.m3u8
+
+#EXTINF:-1,FOX FAMILY SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOXFAMILY_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,FOX MOVIES HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOXMOVIES_HD/index.m3u8
+
+#EXTINF:-1,FOX MOVIES SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOXMOVIES_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,FOX ACTION MEXICO HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOX_ACTION_MEXICO_HD/index.m3u8
+
+#EXTINF:-1,FOX ACTION MEXICO SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOX_ACTION_MEXICO_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,FOX CINEMA HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOX_CINEMA_HD_SUB/index.m3u8
+
+#EXTINF:-1,FOX CINEMA SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOX_CINEMA_HD_SUB/Stream(04)/index.m3u8
+
+#EXTINF:-1,FOX CLASSICS HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOX_CLASSICS_HD/index.m3u8
+
+#EXTINF:-1,FOX CLASSICS SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOX_CLASSICS_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,FOX COMEDY HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOX_COMEDY_HD/index.m3u8
+
+#EXTINF:-1,FOX COMEDY SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOX_COMEDY_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,FOX LIFE HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOX_LIFE_HD/index.m3u8
+
+#EXTINF:-1,FOX LIFE SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOX_LIFE_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,FOX SPORTS HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOX_SPORTS_HD/index.m3u8
+
+#EXTINF:-1,FOX SPORTS SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOX_SPORTS_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,FOX SPORTS 2 HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOX_SPORTS2_HD/index.m3u8
+
+#EXTINF:-1,FOX SPORTS 2 SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOX_SPORTS2_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,FOX SPORTS 3 HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOX_SPORTS3_HD/index.m3u8
+
+#EXTINF:-1,FOX SPORTS 3 SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FOX_SPORTS3_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,FRANCE SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FRANCE24/index.m3u8
+
+#EXTINF:-1,FX HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FX_HD/index.m3u8
+
+#EXTINF:-1,FX SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/FX_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,GLITZ SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/GLITZ/index.m3u8
+
+#EXTINF:-1,GOLDEN HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/GOLDEN_HD/index.m3u8
+
+#EXTINF:-1,GOLDEN SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/GOLDEN_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,GOLDEN PREMIER HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/GOLDEN_PREMIER_HD/index.m3u8
+
+#EXTINF:-1,GOLDEN PREMIER SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/GOLDEN_PREMIER_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,GOLF CHANNEL HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/GOLF_CHANNEL_HD/index.m3u8
+
+#EXTINF:-1,GOLF CHANNEL SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/GOLF_CHANNEL_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,HBO HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/HBO_HD_SUB/index.m3u8
+
+#EXTINF:-1,HBO SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/HBO_HD_SUB/Stream(04)/index.m3u8
+
+#EXTINF:-1,HBO 2 HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/HBO_2_HD/index.m3u8
+
+#EXTINF:-1,HBO 2 SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/HBO_2_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,HBO PLUS HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/HBO_PLUS_HD/index.m3u8
+
+#EXTINF:-1,HBO PLUS SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/HBO_PLUS_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,HBO SIGNATURE HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/HBO_SIGNATURE_HD/index.m3u8
+
+#EXTINF:-1,HBO SIGNATURE SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/HBO_SIGNATURE_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,HEADLINE NEW SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/HEADLINE_NEWS/index.m3u8
+
+#EXTINF:-1,HISTORY CHANNEL HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/HISTORY_CHANNEL_HD/index.m3u8
+
+#EXTINF:-1,HISTORY CHANNEL SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/HISTORY_CHANNEL_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,HTV SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/HTV/index.m3u8
+
+#EXTINF:-1,ID HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/ID_HD/index.m3u8
+
+#EXTINF:-1,ID SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/ID_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,INTI HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/INTI_HD/index.m3u8
+
+#EXTINF:-1,INTI SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/INTI_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,ISAT SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/ISAT/index.m3u8
+
+#EXTINF:-1,K MUSIC SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/K_MUSIC/index.m3u8
+
+#EXTINF:-1,LIFETIME SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/LIFETIME/index.m3u8
+
+#EXTINF:-1,MASCHIC HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/MASCHIC_HD/index.m3u8
+
+#EXTINF:-1,MASCHIC SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/MASCHIC_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,MAX PRIME HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/MAX_PRIME_HD/index.m3u8
+
+#EXTINF:-1,MAX PRIME SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/MAX_PRIME_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,MAX UP HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/MAX_UP_HD/index.m3u8
+
+#EXTINF:-1,MAX UP SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/MAX_UP_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,MTV HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/MTV_HD/index.m3u8
+
+#EXTINF:-1,MTV SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/MTV_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,MTV HITS SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/MTV_HITS/index.m3u8
+
+#EXTINF:-1,MULTIPREMIER SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/MULTIPREMIER/index.m3u8
+
+#EXTINF:-1,NATGEO HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/NATGEO_HD/index.m3u8
+
+#EXTINF:-1,NATGEO SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/NATGEO_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,NICKELODEON HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/NICKELODEON_HD/index.m3u8
+
+#EXTINF:-1,NICKELODEON SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/NICKELODEON_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,NICK 2 HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/NICK_2_HD/index.m3u8
+
+#EXTINF:-1,NICK 2 SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/NICK_2_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,NICK JR HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/NICK_JR_HD/index.m3u8
+
+#EXTINF:-1,NICK JR SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/NICK_JR_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,PARAMOUNT HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/PARAMOUNT_HD/index.m3u8
+
+#EXTINF:-1,PARAMOUNT SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/PARAMOUNT_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,PASIONES HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/PASIONES_HD/index.m3u8
+
+#EXTINF:-1,PASIONES SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/PASIONES_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,RADIOLA SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/RADIOLA/index.m3u8
+
+#EXTINF:-1,RAI SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/RAI/index.m3u8
+
+#EXTINF:-1,RCN TELENOVELAS SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/RCN_TELENOVELAS/index.m3u8
+
+#EXTINF:-1,SONY HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/SONY_HD/index.m3u8
+
+#EXTINF:-1,SONY SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/SONY_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,SPACE HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/SPACE_HD/index.m3u8
+
+#EXTINF:-1,SPACE SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/SPACE_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,SUNDANCE HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/SUNDANCE_HD/index.m3u8
+
+#EXTINF:-1,SUNDANCE SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/SUNDANCE_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,TCM SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/TCM/index.m3u8
+
+#EXTINF:-1,TELEANTIOQUIA SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/TELEANTIOQUIA/index.m3u8
+
+#EXTINF:-1,TELECARIBE SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/TELECARIBE/index.m3u8
+
+#EXTINF:-1,TELEMUNDO SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/TELEMUNDO/index.m3u8
+
+#EXTINF:-1,TELEPACIFICO SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/TELEPACIFICO/index.m3u8
+
+#EXTINF:-1,TLC SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/TLC/index.m3u8
+
+#EXTINF:-1,TNT SERIES HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/TNT_SERIES_HD/index.m3u8
+
+#EXTINF:-1,TNT SERIES SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/TNT_SERIES_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,TOONCAST SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/TOONCAST/index.m3u8
+
+#EXTINF:-1,TRO SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/TRO/index.m3u8
+
+#EXTINF:-1,TRU TV HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/TRU_TV_HD/index.m3u8
+
+#EXTINF:-1,TRU TV SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/TRU_TV_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,TV5 SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/TV5/index.m3u8
+
+#EXTINF:-1,TVE SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/TVE/index.m3u8
+
+#EXTINF:-1,UNICABLE SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/UNICABLE/index.m3u8
+
+#EXTINF:-1,VEPLUSTV SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/VEPLUSTV/index.m3u8
+
+#EXTINF:-1,VH1 HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/VH1_HD/index.m3u8
+
+#EXTINF:-1,VH1 SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/VH1_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,VH1 CLASSIC SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/VH1_CLASSIC/Stream(04)/index.m3u8
+
+#EXTINF:-1,WARNER HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/WARNER_HD/index.m3u8
+
+#EXTINF:-1,WARNER SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/WARNER_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,WINDSPORTS HD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/WINSPORTS_HD/index.m3u8
+
+#EXTINF:-1,WINDSPORTS SD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/WINSPORTS_HD/Stream(04)/index.m3u8
+
+#EXTINF:-1,TNT Latino
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live1/tntlatino/playlist.m3u8
+
+#EXTINF:-1,Azteca 7
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live1/azteca7/playlist.m3u8
+
+#EXTINF:-1,Fox Latino
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live1/foxlatino/playlist.m3u8
+
+#EXTINF:-1,Fox Action
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live1/foxaction/playlist.m3u8
+
+#EXTINF:-1,Telemundo
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live1/telemundo/playlist.m3u8
+
+#EXTINF:-1,Cinemax
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live1/cinemax/playlist.m3u8
+
+#EXTINF:-1,WinSports
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live3/winsports/playlist.m3u8
+
+#EXTINF:-1,RCN
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live1/rcn/playlist.m3u8
+
+#EXTINF:-1,AMC
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/amc/playlist.m3u8
+
+#EXTINF:-1,AXN
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/axn/playlist.m3u8
+
+#EXTINF:-1,M+ Accion
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/plusaccion/playlist.m3u8
+
+#EXTINF:-1,M+ Estrenos
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/plusestrenos/playlist.m3u8
+
+#EXTINF:-1,M+ Series
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live1/plusseries/playlist.m3u8
+
+#EXTINF:-1,DCine
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/dcine/playlist.m3u8
+
+#EXTINF:-1,TNT
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/tnt/playlist.m3u8
+
+#EXTINF:-1,Discovery Max
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/dmax/playlist.m3u8
+
+#EXTINF:-1,Discovery Channel
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/discovery-channel/playlist.m3u8
+
+#EXTINF:-1,Nat Geo
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/nationalgeo/playlist.m3u8
+
+#EXTINF:-1,Nat Geo Wild
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/nationalwild/playlist.m3u8
+
+#EXTINF:-1,History
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/historia/playlist.m3u8
+
+#EXTINF:-1,MTV
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/mtv/playlist.m3u8
+
+#EXTINF:-1,Cocina
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/cocina/playlist.m3u8
+
+#EXTINF:-1,Mega
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live1/mega/playlist.m3u8
+
+#EXTINF:-1,FDF
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/fdf/playlist.m3u8
+
+#EXTINF:-1,Antena 3
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live1/antena3/playlist.m3u8
+
+#EXTINF:-1,Cuatro
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live1/cuatro/playlist.m3u8
+
+#EXTINF:-1,Telecinco
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live1/telecinco/playlist.m3u8
+
+#EXTINF:-1,La Sexta
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live1/lasexta/playlist.m3u8
+
+#EXTINF:-1,Fox
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/fox/playlist.m3u8
+
+#EXTINF:-1,Fox Life
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/foxlife/playlist.m3u8
+
+#EXTINF:-1,Syfy
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/syfy/playlist.m3u8
+
+#EXTINF:-1,TCM
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/tcm/playlist.m3u8
+
+#EXTINF:-1,Paramount Channel
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/paramountchannel/playlist.m3u8
+
+#EXTINF:-1,Eurosport 1
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live1/eurosport/playlist.m3u8
+
+#EXTINF:-1,Eurosport 2
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live1/eurosport2/playlist.m3u8
+
+#EXTINF:-1,Playboy
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/playboy/playlist.m3u8
+
+#EXTINF:-1,Venus
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/venus/playlist.m3u8
+
+#EXTINF:-1,Hustler
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/hustler/playlist.m3u8
+
+#EXTINF:-1,RedLight
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/redlight/playlist.m3u8
+
+#EXTINF:-1,Hot
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live/hot/playlist.m3u8
+
+#EXTINF:-1,GolTV
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live1/goltv/playlist.m3u8
+
+#EXTINF:-1,M+ Futbol
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live3/plusfutbol/playlist.m3u8
+
+#EXTINF:-1,BeinSport
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live3/beinsport/playlist.m3u8
+
+#EXTINF:-1,BeinSport Liga
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live3/beinliga/playlist.m3u8
+
+#EXTINF:-1,M+ Deportes
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live1/plusdeportes1/playlist.m3u8
+
+#EXTINF:-1,M+ Deportes 2
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live1/plusdeportes2/playlist.m3u8
+
+#EXTINF:-1,Formula 1
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live3/formula1/playlist.m3u8
+
+#EXTINF:-1,MotoGP
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J04/channel.php/live3/motogp/playlist.m3u8
+
+#EXTINF:-1,AE
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/1.m3u8
+
+#EXTINF:-1,AMC
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/183.m3u8
+
+#EXTINF:-1,Animal Pahogadoet
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/3.m3u8
+
+#EXTINF:-1,AXN
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/146.m3u8
+
+#EXTINF:-1,Az Corazon
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/166.m3u8
+
+#EXTINF:-1,Azteca 7
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/5.m3u8
+
+#EXTINF:-1,BeinSports
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/376.m3u8
+
+#EXTINF:-1,Boomerang
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/11.m3u8
+
+#EXTINF:-1,Caballeros del Zodiaco
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/427.m3u8
+
+#EXTINF:-1,Canal 5
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/14.m3u8
+
+#EXTINF:-1,Canal+ Accion
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/364.m3u8
+
+#EXTINF:-1,Canal+ Toros
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/369.m3u8
+
+#EXTINF:-1,Caracol
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/391.m3u8
+
+#EXTINF:-1,Cantinflas
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/428.m3u8
+
+#EXTINF:-1,Cartoon Network
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/17.m3u8
+
+#EXTINF:-1,CDF Premium
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/318.m3u8
+
+#EXTINF:-1,CDO
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/513.m3u8
+
+#EXTINF:-1,Chapulin Colorado
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/418.m3u8
+
+#EXTINF:-1,CineCanal+
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/19.m3u8
+
+#EXTINF:-1,Cinemax
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/20.m3u8
+
+#EXTINF:-1,CNN Español
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/136.m3u8
+
+#EXTINF:-1,Comedy Central
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/135.m3u8
+
+#EXTINF:-1,Coraje el licencia Cobarde
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/519.m3u8
+
+#EXTINF:-1,DePelicula
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/21.m3u8
+
+#EXTINF:-1,DirecTV Sports
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/259.m3u8
+
+#EXTINF:-1,Discovery Channel
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/22.m3u8
+
+#EXTINF:-1,Discovery Civilization
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/23.m3u8
+
+#EXTINF:-1,Discovery H&H
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/24.m3u8
+
+#EXTINF:-1,Discovery Theater
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/27.m3u8
+
+#EXTINF:-1,Discovery Turbo
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/28.m3u8
+
+#EXTINF:-1,Disney Channel
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/29.m3u8
+
+#EXTINF:-1,Disney Junior
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/30.m3u8
+
+#EXTINF:-1,Disney XD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/31.m3u8
+
+#EXTINF:-1,Distrito Comecafe
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/32.m3u8
+
+#EXTINF:-1,El Pajaro Loco
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/525.m3u8
+
+#EXTINF:-1,E! Entertainment
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/33.m3u8
+
+#EXTINF:-1,ESPN
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/34.m3u8
+
+#EXTINF:-1,ESPN 2
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/35.m3u8
+
+#EXTINF:-1,ESPN 3
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/36.m3u8
+
+#EXTINF:-1,Film Zone
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/43.m3u8
+
+#EXTINF:-1,FOX
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/45.m3u8
+
+#EXTINF:-1,Fox 1
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/55.m3u8
+
+#EXTINF:-1,Fox Action
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/46.m3u8
+
+#EXTINF:-1,Fox Cinema
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/47.m3u8
+
+#EXTINF:-1,Fox Classics
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/48.m3u8
+
+#EXTINF:-1,Fox Family
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/49.m3u8
+
+#EXTINF:-1,Fox Life
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/50.m3u8
+
+#EXTINF:-1,Fox Movies
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/51.m3u8
+
+#EXTINF:-1,Fox Sports
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/52.m3u8
+
+#EXTINF:-1,Fox Sports 2
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/53.m3u8
+
+#EXTINF:-1,Fox Sports Premium
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/512.m3u8
+
+#EXTINF:-1,Fox Sports Sur
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/402.m3u8
+
+#EXTINF:-1,FX
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/42.m3u8
+
+#EXTINF:-1,Glitz
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/158.m3u8
+
+#EXTINF:-1,GolTV
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/287.m3u8
+
+#EXTINF:-1,Golden Edge
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/58.m3u8
+
+#EXTINF:-1,Golden
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/57.m3u8
+
+#EXTINF:-1,H2
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/61.m3u8
+
+#EXTINF:-1,HBO
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/62.m3u8
+
+#EXTINF:-1,HBO 2
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/300.m3u8
+
+#EXTINF:-1,HBO Family
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/63.m3u8
+
+#EXTINF:-1,HBO Plus
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/64.m3u8
+
+#EXTINF:-1,Hey Arnold
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/522.m3u8
+
+#EXTINF:-1,History Channel
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/67.m3u8
+
+#EXTINF:-1,ISat
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/153.m3u8
+
+#EXTINF:-1,Investigation Discovery
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/68.m3u8
+
+#EXTINF:-1,Lifetime
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/152.m3u8
+
+#EXTINF:-1,Looney Tunes
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/524.m3u8
+
+#EXTINF:-1,Max Prime
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/73.m3u8
+
+#EXTINF:-1,Movistar Deportes
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/366.m3u8
+
+#EXTINF:-1,Movistar Deportes 2
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/367.m3u8
+
+#EXTINF:-1,Movistar Futbol
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/368.m3u8
+
+#EXTINF:-1,Movistar Extra
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/372.m3u8
+
+#EXTINF:-1,MTV
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/69.m3u8
+
+#EXTINF:-1,NatGeo
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/76.m3u8
+
+#EXTINF:-1,NatGeo Wild
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/77.m3u8
+
+#EXTINF:-1,Nick JR
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/79.m3u8
+
+#EXTINF:-1,Nickelodeon
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/184.m3u8
+
+#EXTINF:-1,Padre de Familia
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/416.m3u8
+
+#EXTINF:-1,Pokemon
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/420.m3u8
+
+#EXTINF:-1,RCN
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/390.m3u8
+
+#EXTINF:-1,Sony
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/145.m3u8
+
+#EXTINF:-1,Scooby Doo
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/422.m3u8
+
+#EXTINF:-1,Space
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/83.m3u8
+
+#EXTINF:-1,Studio Universal
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/84.m3u8
+
+#EXTINF:-1,Super Campeones
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/432.m3u8
+
+#EXTINF:-1,SyFy
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/151.m3u8
+
+#EXTINF:-1,TBS
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/171.m3u8
+
+#EXTINF:-1,TCM
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/85.m3u8
+
+#EXTINF:-1,TDN
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/86.m3u8
+
+#EXTINF:-1,Telemundo
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/92.m3u8
+
+#EXTINF:-1,TLC
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/87.m3u8
+
+#EXTINF:-1,Tlnovelas
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/94.m3u8
+
+#EXTINF:-1,TNT
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/179.m3u8
+
+#EXTINF:-1,TNT Series
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/90.m3u8
+
+#EXTINF:-1,TNT Sports
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/509.m3u8
+
+#EXTINF:-1,Tom y Jerry
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/421.m3u8
+
+#EXTINF:-1,Tooncast
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/95.m3u8
+
+#EXTINF:-1,TruTV
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/96.m3u8
+
+#EXTINF:-1,TycSports
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/274.m3u8
+
+#EXTINF:-1,UFC
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/97.m3u8
+
+#EXTINF:-1,Unicable
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/98.m3u8
+
+#EXTINF:-1,Universal
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/181.m3u8
+
+#EXTINF:-1,Univision
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/99.m3u8
+
+#EXTINF:-1,Univision Deportes
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/373.m3u8
+
+#EXTINF:-1,Univision TDN
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/100.m3u8
+
+#EXTINF:-1,Univision Tlnovelas
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/413.m3u8
+
+#EXTINF:-1,VH1
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/101.m3u8
+
+#EXTINF:-1,Warner Channel
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/102.m3u8
+
+#EXTINF:-1,WWE Network
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J02/channel.php/276.m3u8
+
+#EXTINF:-1,3e
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/8aee1f7493a36660dd398cc005777f37/playlist.m3u8
+
+#EXTINF:-1,A&E (Spain)
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/bd0e73b1b69bbea4f49961cfba9b4d9f/playlist.m3u8
+
+#EXTINF:-1,abc
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/ba354149f3c117ceb69529a1542b6281/playlist.m3u8
+
+#EXTINF:-1,AMC USA
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/5f65f194d2e2979b30636ab479675fb5/playlist.m3u8
+
+#EXTINF:-1,AMC USA
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/c0371e35a2b3244f5edda7947172d954/playlist.m3u8
+
+#EXTINF:-1,Animal Pahogadoet
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/52d1df7fff7b1ba3ac317b98ef2fdb80/playlist.m3u8
+
+#EXTINF:-1,Animal Pahogadoet
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/a0f8ddb8c8251a68f136648b32c0f62d/playlist.m3u8
+
+#EXTINF:-1,Animal Pahogadoet UK
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/b39899a4d7a8537a3fb9a4b36a364642/playlist.m3u8
+
+#EXTINF:-1,Antena.Nova
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/4519750045b4dd39c8ed5eeed4d0fe04/playlist.m3u8
+
+#EXTINF:-1,Antena 3 (Spain)
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/a84813c2e00d5192844e855b98fb90bd/playlist.m3u8
+
+#EXTINF:-1,ARTE Deutsch
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/27aefa295a0bf58102b7f7c373d950bc/playlist.m3u8
+
+#EXTINF:-1,ARTE Francais
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/296c263cb739ddf316c97962e85f0d50/playlist.m3u8
+
+#EXTINF:-1,AXN (version in Spanish)
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/6f6aebf94a17416f5ca9751648ab7b16/playlist.m3u8
+
+#EXTINF:-1,AXN White Espana
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/675c30cb9a8994f09f93f4535b9e39c9/playlist.m3u8
+
+#EXTINF:-1,BBC Four
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/242b381a075fd20a0a73060c277e54a2/playlist.m3u8
+
+#EXTINF:-1,BBC One
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/a8f14a834d2d09054715803924e798b2/playlist.m3u8
+
+#EXTINF:-1,BBC Three
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/b0cb790c33fec1d8babed26ff68ee629/playlist.m3u8
+
+#EXTINF:-1,BBC Two
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/d6b64a19b548bf941f57cdd4c5d71904/playlist.m3u8
+
+#EXTINF:-1,Boomerang (German)
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/facdc047f757d4426e1a0c6795e6e8f9/playlist.m3u8
+
+#EXTINF:-1,Bravo TV
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/582b19f3ef5459a2f139ec69ee2053d0/playlist.m3u8
+
+#EXTINF:-1,Bravo TV
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/afa880d42b94c19e5f644bdf24e76651/playlist.m3u8
+
+#EXTINF:-1,calle 13
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/b7c111833059227685fb74887fe07c8a/playlist.m3u8
+
+#EXTINF:-1,Canal de Historia
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/0d18cbfa36f577fec263df066421d154/playlist.m3u8
+
+#EXTINF:-1,canal hollywood (Spain)
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/fe7e0b66b38dbc02ae1b847087115a84/playlist.m3u8
+
+#EXTINF:-1,Cartoon Network
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/8be5e3f6156a6b2108a2d8b9cc5d5d7c/playlist.m3u8
+
+#EXTINF:-1,Cartoon Network UK
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/afafc38ed5abfaf4372734cea19f409a/playlist.m3u8
+
+#EXTINF:-1,Caza y Pesca
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/8c6f6adb4817a92285531a4f3dc5c0e8/playlist.m3u8
+
+#EXTINF:-1,CBS
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/250c51527f347066847969f002be67a2/playlist.m3u8
+
+#EXTINF:-1,CBS
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/4d0fadca2686a2cdd4a4a6623212449c/playlist.m3u8
+
+#EXTINF:-1,Channel 4
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/e77d2afa4363dad35c713745802d7bee/playlist.m3u8
+
+#EXTINF:-1,Channel 5
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/5c2e49e212275e83ce788e1a6da3c438/playlist.m3u8
+
+#EXTINF:-1,Cine+ Classic
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/90349e14e91b6e4fc68c719466c515aa/playlist.m3u8
+
+#EXTINF:-1,Cine+ Emotion
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/bc65d4efb166b9d6d30cb02b52496378/playlist.m3u8
+
+#EXTINF:-1,Cine+ Frisson
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/10c7c075548ed5681b990e5b3180c63a/playlist.m3u8
+
+#EXTINF:-1,Cine+ Premier
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/5b036d592aceacb0e56c2dee5d63f131/playlist.m3u8
+
+#EXTINF:-1,Comedy Central UK
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/b9b55864b6779b7e83321ab0b74ed727/playlist.m3u8
+
+#EXTINF:-1,Comedie+
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/339609ed5699baf0d788c57edfde7271/playlist.m3u8
+
+#EXTINF:-1,Cosmopolitan TV (Spain)
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/f54f832e01f6b26ece4283d67134aa71/playlist.m3u8
+
+#EXTINF:-1,Cuatro
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/ae006bceab7f8834fb2928cc96004d29/playlist.m3u8
+
+#EXTINF:-1,Discovery Channel
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/a490ae75a3ec2acf16c9f592e889eb4c/playlist.m3u8
+
+#EXTINF:-1,Discovery Channel
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/075d66993151c178df1ed9840202d983/playlist.m3u8
+
+#EXTINF:-1,Discovery Channel (version in Spanish)
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/40347bb95c4af37d6fd3a3a757115aeb/playlist.m3u8
+
+#EXTINF:-1,Discovery Channel UK
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/c283a671e1189d568500d494ff8cd77d/playlist.m3u8
+
+#EXTINF:-1,Discovery Shed
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/5143132d4f880ee96e11f59f169f7770/playlist.m3u8
+
+#EXTINF:-1,Disney Channel Espana
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/b0b03107107b12286b6ac31531184618/playlist.m3u8
+
+#EXTINF:-1,Disney Channel Germany
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/8e0671ea88041d9410d86a9f45e9e461/playlist.m3u8
+
+#EXTINF:-1,Disney Channel UK
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/14b7d3edf41bba55aebd39254e3a0100/playlist.m3u8
+
+#EXTINF:-1,Disney Junior UK
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/e6e17fbb85e77c0eabc0ed20d6b8799e/playlist.m3u8
+
+#EXTINF:-1,Disney XD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/c8c584218a3b3036c001e7e440b63c28/playlist.m3u8
+
+#EXTINF:-1,DMAX Deutschahogadod
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/c6c040406a13028a9f02ab306e34b86a/playlist.m3u8
+
+#EXTINF:-1,Drama Channel
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/24bdca7ce85d02fddf5992944b4960d1/playlist.m3u8
+
+#EXTINF:-1,E! Entertainment
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/c73381d6543700790e949ee08157120f/playlist.m3u8
+
+#EXTINF:-1,E4
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/2157d56d6aff208ae90c869526290656/playlist.m3u8
+
+#EXTINF:-1,Film 4
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/0f2c179db3d0e356f8615dde513bc4aa/playlist.m3u8
+
+#EXTINF:-1,Food Network UK
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/ceebc66a0265f56db9fe5b2fd17b6115/playlist.m3u8
+
+#EXTINF:-1,FOX (Spain)
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/0e7028a591302250c4d0239ce6840181/playlist.m3u8
+
+#EXTINF:-1,FOX Life (Spain)
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/81236d59196dc2c28bee042f88d6d005/playlist.m3u8
+
+#EXTINF:-1,Fox UK
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/c37f98026cb0acb60766071a6e45c01b/playlist.m3u8
+
+#EXTINF:-1,France 2
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/98763cd461b40c4bc3e60028c94adbc7/playlist.m3u8
+
+#EXTINF:-1,France 3
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/7b8eeb443198422a9b374abc758c97b5/playlist.m3u8
+
+#EXTINF:-1,France 4
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/ddae356b4954cd7f3315da60cab75041/playlist.m3u8
+
+#EXTINF:-1,France 5
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/19893d10d640f333a42110ea6c7f0b7b/playlist.m3u8
+
+#EXTINF:-1,FX
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/d4c503dbcdd0aaa79724dd4b79b5c8c6/playlist.m3u8
+
+#EXTINF:-1,GOLD
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/2c0898822ab3baf7f93bea86648adb26/playlist.m3u8
+
+#EXTINF:-1,Gulli
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/08051ef3b903332bffa361d4b948bd7f/playlist.m3u8
+
+#EXTINF:-1,H2
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/ca2bf3f6b7e18a508253e9521510a4b5/playlist.m3u8
+
+#EXTINF:-1,Hallmark
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/1854321c4f4aff379019810ada9c6c4a/playlist.m3u8
+
+#EXTINF:-1,HBO
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/509e5f41146e278f9eab1ddaceb34515/playlist.m3u8
+
+#EXTINF:-1,HBO Comedy
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/359e2acdbc21e92a1ab8b8aabda7b758/playlist.m3u8
+
+#EXTINF:-1,HD1 (France)
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/56b413603a4d5325109de63072c81c72/playlist.m3u8
+
+#EXTINF:-1,History Channel UK
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/ccb7de5c42461be2cac10f5baf7d62cf/playlist.m3u8
+
+#EXTINF:-1,History Channel USA
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/b66373f0ab09000b1acd06576bc91eeb/playlist.m3u8
+
+#EXTINF:-1,House & Garden Television
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/7d9000c0967cc4919f07ecbe2736c95a/playlist.m3u8
+
+#EXTINF:-1,ITV1
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/cc0b763f7c5ce91a396c0ef4fa529df9/playlist.m3u8
+
+#EXTINF:-1,ITV2
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/28d16f04d9b55d2ea2f826735ddffb85/playlist.m3u8
+
+#EXTINF:-1,ITV3
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/ef4aa10e04cfa8191ff3253dc8184bc2/playlist.m3u8
+
+#EXTINF:-1,ITV4
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/2a2714a7d955d8810a21bb3f195cc0d9/playlist.m3u8
+
+#EXTINF:-1,ITV Encore
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/7b8ca0ab87affed7fe2b2935892ee5bc/playlist.m3u8
+
+#EXTINF:-1,Kabel Eins
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/c6c1577fa8aab8655ab13b8db1ef8cfb/playlist.m3u8
+
+#EXTINF:-1,KIKA
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/7814b33686d5348d4511c75d331b3b45/playlist.m3u8
+
+#EXTINF:-1,Lifetime UK
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/f31ff373857e6b6e0bc44ae55da2e208/playlist.m3u8
+
+#EXTINF:-1,Lifetime USA
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/426080503467f5a54a5f1354fc0d5714/playlist.m3u8
+
+#EXTINF:-1,M6
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/fc1df6307a9c4971569997963dcc8b08/playlist.m3u8
+
+#EXTINF:-1,Movies4men
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/5f6d29a277a909797e7eb360f3cc6e1b/playlist.m3u8
+
+#EXTINF:-1,Nat Geo Wild (version in English)
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/acf9249594df8395d62a4fee0dd484cb/playlist.m3u8
+
+#EXTINF:-1,Nat Geo Wild (Version in Spanish)
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/14b883544fcd5ead09b42a29c6969025/playlist.m3u8
+
+#EXTINF:-1,National Geographic
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/e08dd4627a3cf468a30d8a357956d6f8/playlist.m3u8
+
+#EXTINF:-1,National Geographic
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/be2fa358e4f1c9a0ee833aa15f829f81/playlist.m3u8
+
+#EXTINF:-1,National Geographic Channel Europe (Version in Spanish)
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/c2a657575fdd40a765b1dac33e5dbf83/playlist.m3u8
+
+#EXTINF:-1,National Geographic UK
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/f3f75dee3b4ed4497dfa412079c3a6f9/playlist.m3u8
+
+#EXTINF:-1,Nickelodeon
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/a55d7c24a00915235cdc6a6ddaaaf67b/playlist.m3u8
+
+#EXTINF:-1,Nicktoons TV
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/a5c568b3ed1bce30903f6092519ef949/playlist.m3u8
+
+#EXTINF:-1,Nick US
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/06bea552377456206b10729449714df7/playlist.m3u8
+
+#EXTINF:-1,ORF 1
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/757ee53b00d9d571902b1d8d2351bb01/playlist.m3u8
+
+#EXTINF:-1,PBS
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/fe22365235b496368609515523bfb971/playlist.m3u8
+
+#EXTINF:-1,PBS
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/66e9d91f0fa2b8bf79e42fae019ea4d8/playlist.m3u8
+
+#EXTINF:-1,Pahogadoete+ CI (Crime & Investigation)
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/f9cc32f4e5d665f59355da62d4bca4f7/playlist.m3u8
+
+#EXTINF:-1,ProSieben
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/f5b7e9d4afca2d7198ab069c6b814454/playlist.m3u8
+
+#EXTINF:-1,ProSieben Maxx
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/af2a8d2597dd52013e2a9fffa4434508/playlist.m3u8
+
+#EXTINF:-1,Rai 1
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/d9f1f6380a8ce8a94be3e57a2ea447cd/playlist.m3u8
+
+#EXTINF:-1,Rai 2
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/6ad178ba29f947df477add82b578dec6/playlist.m3u8
+
+#EXTINF:-1,RTE 1
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/2c3bc07df7606365a0c449d3193cefe8/playlist.m3u8
+
+#EXTINF:-1,RTE 2
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/36fc922224816d18332eb55b897746ba/playlist.m3u8
+
+#EXTINF:-1,RTL
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/efe01da942ed68b700b911f5a1b131a7/playlist.m3u8
+
+#EXTINF:-1,RTL Nitro
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/63c32568297d3d493b484a35b9022951/playlist.m3u8
+
+#EXTINF:-1,Sat 1
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/a7af4c42c5a684ca822c2a79af0e5a90/playlist.m3u8
+
+#EXTINF:-1,SIXX TV
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/298b488cf4205e03edc17afc8de9527b/playlist.m3u8
+
+#EXTINF:-1,Sky Action
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/e5c20351b28ad001056a35ab8879e3ef/playlist.m3u8
+
+#EXTINF:-1,Sky Arts 2
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/19720b905499b5bc8ff1c34eeb6c6e91/playlist.m3u8
+
+#EXTINF:-1,Sky Atahogadotic Ireahogadod
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/eabd32acc39d4bd72a4ad687090aef8f/playlist.m3u8
+
+#EXTINF:-1,Sky Cinema (Deutschahogadod)
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/921a17733860f7f08fc434085cc18421/playlist.m3u8
+
+#EXTINF:-1,Sky Emotion
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/c12dd56f3aff023c9d60697b45c8867c/playlist.m3u8
+
+#EXTINF:-1,Sky Living
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/26cb04f6748172109489d18b64feca2e/playlist.m3u8
+
+#EXTINF:-1,Sky Movies (Modern Greats)
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/a2d025900c268045e4e2da567a8c3f9b/playlist.m3u8
+
+#EXTINF:-1,Sky Movies Action & Adventure
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/3c909c9218961b2ecfdd5f44a89a90b8/playlist.m3u8
+
+#EXTINF:-1,Sky Movies Comedy
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/c168262cf8b9775300da0b79b2199ee6/playlist.m3u8
+
+#EXTINF:-1,Sky Movies Crime & Thriller
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/a84271250d9dc93c1edc84874552d6c7/playlist.m3u8
+
+#EXTINF:-1,Sky Movies Disney
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/fb2cde6e0410cf537a19800bd19261f0/playlist.m3u8
+
+#EXTINF:-1,Sky Movies Drama & Romance
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/5081d68d4054bc9209ec2bb1c5ff5eef/playlist.m3u8
+
+#EXTINF:-1,Sky Movies Family
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/3caed59e3b7e405b3a802cc480a14e32/playlist.m3u8
+
+#EXTINF:-1,Sky Movies Premiere
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/3265682a41f442e5a4164e9b26393634/playlist.m3u8
+
+#EXTINF:-1,Sky Movies Sci-fi Horror
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/20abccafd4a26b6fce57df892e5040be/playlist.m3u8
+
+#EXTINF:-1,Sky Movies Select
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/760670eeaaa3e62adc1989fee2e8b259/playlist.m3u8
+
+#EXTINF:-1,Sky Two
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/838d5a3429b075f8b9ab00c083d93989/playlist.m3u8
+
+#EXTINF:-1,Sony Film Channel
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/cd5e2f21c8b8f7b42c054dcf4edc0b69/playlist.m3u8
+
+#EXTINF:-1,Spike TV
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/a01d4a2d79052d6b1c2c63bf2d284202/playlist.m3u8
+
+#EXTINF:-1,Spike UK
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/3036779a6ef01d9c0da3b7e139a6445d/playlist.m3u8
+
+#EXTINF:-1,Super RTL
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/5375a143da899f4c318aa7518fc43278/playlist.m3u8
+
+#EXTINF:-1,SyFy
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/15bb1e6a7ebf945b85b834b2c84cf9f1/playlist.m3u8
+
+#EXTINF:-1,SyFy
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/d8320fedb4a90fb06c9f7bff96a7e619/playlist.m3u8
+
+#EXTINF:-1,TBS
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/c370dca571a8e9eeb48104236808fe8d/playlist.m3u8
+
+#EXTINF:-1,Telecinco
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/ab71f380322e796b814765a382cb82b4/playlist.m3u8
+
+#EXTINF:-1,TG4
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/cd7247622a163a95d54994da83ee69fd/playlist.m3u8
+
+#EXTINF:-1,The CW
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/296e56c668bc8bd6b0044d3e4f034153/playlist.m3u8
+
+#EXTINF:-1,TLC UK
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/d7aa295db6f5a09cc47f862d7042dd64/playlist.m3u8
+
+#EXTINF:-1,TNT USA
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/b5e39fb359975ce6a68be8a6935d4d7e/playlist.m3u8
+
+#EXTINF:-1,True Movies
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/d2c73be17b950368083f5c7ca9445cb9/playlist.m3u8
+
+#EXTINF:-1,TV3 (Ireahogadod)
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/01823533507c24960b87a6f8e0049c5c/playlist.m3u8
+
+#EXTINF:-1,TVE La 2
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/5f2ef715f5b709f65b146342fb3a5bc2/playlist.m3u8
+
+#EXTINF:-1,TVE La Primera
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/5bff4eaacfb2c2b61cf1e01ed6b75917/playlist.m3u8
+
+#EXTINF:-1,USA Network
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/6e41f30f946d9327c3322a05250735a7/playlist.m3u8
+
+#EXTINF:-1,USA Network
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/0e367435d4bc1a89ea7506cf0eadb3a7/playlist.m3u8
+
+#EXTINF:-1,VOX
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/ccda5ae0852a58ca19ec280be9db8ee5/playlist.m3u8
+
+#EXTINF:-1,WWOR-TV
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/f55025e27be5231454658cc200a5565e/playlist.m3u8
+
+#EXTINF:-1,Bloomberg
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/208421fcbc090a62f099f85472ded9ba/playlist.m3u8
+
+#EXTINF:-1,CNBC
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/0fa1864db527d3de89020cb06a050b35/playlist.m3u8
+
+#EXTINF:-1,CNBC
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/aa11677d237b2c2b435fd7decac0d7ad/playlist.m3u8
+
+#EXTINF:-1,CNN International
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/81584236b35ba70e2e9a12f5fb338ff0/playlist.m3u8
+
+#EXTINF:-1,Fox 43 WMPT
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/c2f52b70c2324ba134b2cba2962bedae/playlist.m3u8
+
+#EXTINF:-1,Fox News Channel
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/877e1fd192b3a58577e4387971c215a7/playlist.m3u8
+
+#EXTINF:-1,n-tv
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/901910dbcbc321c46ae35096a3a65968/playlist.m3u8
+
+#EXTINF:-1,N24
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/e24244c926110424f94896c030fc0500/playlist.m3u8
+
+#EXTINF:-1,NBC
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/3baf7db0d8f1d400816fb6166b297f46/playlist.m3u8
+
+#EXTINF:-1,NBC
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/89b7abacbe0cefbadf6ad5c5ccb4ae15/playlist.m3u8
+
+#EXTINF:-1,Sky News
+http://gratis.iptvcanales.com/hls/redirect.php/ahogado/J01/channel.php/3b7dd11b6654dd5f35745285ededdbd9/playlist.m3u8
